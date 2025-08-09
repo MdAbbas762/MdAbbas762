@@ -1,8 +1,8 @@
 ## Hi there 👋  
 
-I’m **Muhammad Abbas**, a dedicated Software Engineering student at Capital University of Science and Technology (CUST), Pakistan, with a strong foundation in front-end web development. I have built several front-end projects that reflect both my technical understanding and continuous learning, with a strong focus on logic building and practical implementation. Currently, I am focused on expanding my skills in backend development to become a full-stack developer capable of handling complete application logic, APIs, and databases.
+I’m ** Syed Muhammad Abbas**, a dedicated Software Engineering student at Capital University of Science and Technology (CUST), Pakistan, with a strong foundation in front-end web development. I have built several front-end projects that reflect both my technical understanding and continuous learning, with a strong focus on logic building and practical implementation. Currently, I am focused on expanding my skills in backend development to become a full-stack developer capable of handling complete application logic, APIs, and databases.
 
-As part of my university curriculum, I also had the opportunity to explore **Android development** using Java and XML. This experience introduced me to mobile app development, and I found it both exciting and insightful. In addition to development, I have a growing interest in Artificial Intelligence and enjoy exploring AI-based problems and their practical solutions. I am passionate about writing clean, maintainable code and continuously improving through hands-on learning and project-based work.
+In addition to development, I have a growing interest in Artificial Intelligence and enjoy exploring AI-based problems and their practical solutions. I am passionate about writing clean, maintainable code and continuously improving through hands-on learning and project-based work.
 
 ## 🛠️ Tech Stack
 
